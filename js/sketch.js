@@ -131,11 +131,11 @@ function touchEnded(){
 
 function openLink(){
   if (storyCounter == 5){
-    window.open("https://jmonk603.github.io/DandDARWinDragRng/");
+    window.open("https://jmonk603.github.io/DAndDARWinDragRng/");
     window.location.href = ('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
   }
   if (storyCounter == 8){
-    window.open("https://jmonk603.github.io/DandDARLoseDragRng/");
+    window.open("https://jmonk603.github.io/DAndDARLoseDragRng/");
     window.location.href = ('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
   }
 }
